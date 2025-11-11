@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints (nếu có)
+.ipynb_checkpoints/
+
+# Thư viện Streamlit lưu tạm (nếu có)
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db

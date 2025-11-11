@@ -1,0 +1,6 @@
+{
+  "classification_auc": 0.6165966386554622,
+  "classification_accuracy": 0.79,
+  "regression_mae": 4411755.482714286,
+  "regression_r2": 0.9955930392949894
+}

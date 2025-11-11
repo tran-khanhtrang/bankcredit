@@ -1,0 +1,58 @@
+[
+  {
+    "card_code": "TPB_GO",
+    "name": "TPBank GO",
+    "annual_fee": 400000,
+    "cashback": {
+      "groceries": 0.02,
+      "travel": 0.0,
+      "online": 0.01,
+      "utilities": 0.0,
+      "entertainment": 0.01
+    },
+    "min_income": 8000000,
+    "target": "daily"
+  },
+  {
+    "card_code": "TPB_STEPUP",
+    "name": "TPBank Step Up",
+    "annual_fee": 990000,
+    "cashback": {
+      "groceries": 0.01,
+      "travel": 0.02,
+      "online": 0.02,
+      "utilities": 0.0,
+      "entertainment": 0.02
+    },
+    "min_income": 12000000,
+    "target": "young_pro"
+  },
+  {
+    "card_code": "TPB_PLATINUM",
+    "name": "TPBank Platinum",
+    "annual_fee": 1200000,
+    "cashback": {
+      "groceries": 0.01,
+      "travel": 0.03,
+      "online": 0.02,
+      "utilities": 0.0,
+      "entertainment": 0.02
+    },
+    "min_income": 18000000,
+    "target": "affluent"
+  },
+  {
+    "card_code": "TPB_FREE",
+    "name": "TPBank Free",
+    "annual_fee": 0,
+    "cashback": {
+      "groceries": 0.005,
+      "travel": 0.0,
+      "online": 0.005,
+      "utilities": 0.0,
+      "entertainment": 0.005
+    },
+    "min_income": 6000000,
+    "target": "starter"
+  }
+]
