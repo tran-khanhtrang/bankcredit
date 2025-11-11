@@ -1,7 +1,6 @@
 
 # Bank Credit Card – ML + RS + DSS (Demo)
-
-**Lưu ý:** Đây là demo học thuật, KHÔNG đại diện cho chính sách chính thức của TPBank.
+**Lưu ý:** Đây là demo học thuật, KHÔNG đại diện cho chính sách chính thức của Bank.
 
 ## Thành phần
 - **ML (phê duyệt):** RandomForestClassifier → xác suất chấp thuận (probability of approval).
